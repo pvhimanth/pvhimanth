@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanth</h1>
+<h1 align="center">Hi 👋, I'm Venkata Himanth Paricherla</h1>
 <img align="right" alt="coding gif" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
 <p>🖥️ I am a Java Full Stack Developer</p>
@@ -38,6 +38,7 @@
 ---
 
 <h3 align="left">⚡ Highlights:</h3>
+
 - 🚀 Passionate about building scalable web applications  
 - 💻 Strong knowledge of Java, Spring, Hibernate, and SQL  
 - 🌐 Experienced in frontend and backend development  
